@@ -1,0 +1,24 @@
+{
+  "name": "net.roystan.unityoutlineshader",
+  "displayName": "Unity Outline Shader",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "Outline Shader for Unity",
+  "author": {
+    "name": "Erik Roystan",
+    "url": "https://roystan.net/"
+  },
+  "repository": "https://github.com/IronWarrior/UnityOutlineShader",
+  "license": "Unlicense",
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Unity outline shader demo",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "type": "tool",
+  "dependencies": {
+    "com.unity.postprocessing": "2.1.6"
+  }
+}
