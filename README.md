@@ -12,4 +12,4 @@ Uses the depth and normals buffers to generate outlines of variable thickness an
 
 https://openupm.com/packages/net.roystan.unityoutlineshader/
 
-The shader use post-processing, please checkout the sample demo for details.
+The shader uses post-processing, please checkout the sample demo for details.
